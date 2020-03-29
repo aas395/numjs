@@ -1,6 +1,6 @@
 {
   "name": "aas395-numjs",
-  "version": "0.16.1",
+  "version": "0.16.2",
   "description": "Copies numjs 0.16.0 but updates the sharp dependency to allow it to work with node 12",
   "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "main": "src/index.js",
@@ -60,7 +60,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/nicolaspanel/numjs.git"
+    "url": "git://github.com/aas395/aas395-numjs.git"
   },
   "keywords": [
     "ndarray",
@@ -83,7 +83,7 @@
     "shape",
     "numpy"
   ],
-  "author": "Nicolas Panel",
+  "author": "Nicolas Panel -- Edited by Aaron Smyth",
   "license": "MIT",
   "readmeFilename": "README.md",
   "browser": {
