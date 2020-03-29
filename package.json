@@ -1,8 +1,8 @@
 {
-  "name": "aas395-numjs",
+  "name": "numjs",
   "version": "0.16.2",
   "description": "Copies numjs 0.16.0 but updates the sharp dependency to allow it to work with node 12",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/@aas395" },
   "main": "src/index.js",
   "directories": {
     "test": "test"
